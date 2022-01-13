@@ -1,43 +1,29 @@
 
  ![Image](./Assets/header-anim.gif)
 
-Hey there, I'm Semere Tereffe. I'm a Software Engineering major that takes interest in working on all kinds of projects. I'm currently working on a Web3 solution for event ticket sales. You can check out some of my previous works below or on my github. The frameworks and languages I'm use can be found below. 
+Hey there, I'm Semere Tereffe. I'm a Software Engineering major that takes interest in working on projects both server side and frontend. Beyond the fullstack, I'm also interested in Web3 and currently working on a project that implements distributed solution for event ticket sales. You can check out some of my previous works below, past where I put some of the frameworks and languages I've worked with in the past.
+
+
+## Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 ## Frameworks
-
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![JWT](https://img.shields.io/badge/-JWT-000?&logo=auth0)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
-
-## Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-***
-## Previous Fullstack Projects
+## Fullstack Projects I've worked on
 
 [![PostgreSQL](https://img.shields.io/badge/Negadras-Frontend-fff)](https://github.com/Aymen-Mohammednur/Negadras-Frontend "Negadras Frontend")
-
 [![PostgreSQL](https://img.shields.io/badge/Negadras-Backend-000)](https://github.com/Aymen-Mohammednur/Negadras-Backend "Negadras Backend")
-
 [![PostgreSQL](https://img.shields.io/badge/EMS-Frontend-FFF)](https://github.com/Aben-Bel/EMSFrontend "EMS Frontend")
-
 [![PostgreSQL](https://img.shields.io/badge/EMS-Backend-000)](https://github.com/Aymen-Mohammednur/EMSBackend "EMS Backend")
-
-
-
-
-
-
-
-
-
 
 <!---
 semere01/semere01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
