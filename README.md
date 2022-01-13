@@ -1,5 +1,6 @@
 
- ![Image](./Assets/header-anim.gif)
+ ![GitHub Light](./Assets/LightModeHeader.gif)
+ ![GitHub Dark](./Assets/DarkModeHeader.gif)
 
 Hey there, I'm Semere Tereffe. I'm a Software Engineering major that takes interest in working on projects both server side and frontend. Beyond the fullstack, I'm also interested in Web3 and currently working on a project that implements distributed solution for event ticket sales. You can check out some of my previous works below, past where I put some of the frameworks and languages I've worked with in the past.
 
