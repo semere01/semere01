@@ -12,8 +12,10 @@ Hey there, I'm Semere Tereffe. I'm a Software Engineering major that takes inter
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
-## Frameworks
+## Frameworks and Tools
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![JWT](https://img.shields.io/badge/-JWT-000?&logo=auth0)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
