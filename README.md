@@ -1,6 +1,5 @@
 
- ![GitHub Light](./Assets/LightModeHeader.gif#gh-light-mode-only)
- ![GitHub Dark](./Assets/DarkModeHeader.gif#gh-dark-mode-only)
+
 
 Hey there, I'm Semere Tereffe. I'm a Software Engineering major that takes interest in working on projects both server side and frontend. Beyond the fullstack, I'm also interested in Web3 and currently working on a project that implements distributed solution for event ticket sales. You can check out some of my previous works below.
 
